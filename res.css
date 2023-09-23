@@ -1,0 +1,139 @@
+/* Extra Small (xs) */
+@media (max-width: 575.98px) {
+    .header-main-div{
+        background-color: black;
+        }
+.container-fluid{
+    background-color: black;
+}
+.icon-froms{
+    visibility: hidden;
+}
+  .navbar-expand-lg .navbar-nav {
+    flex-direction: column;
+  }
+  .movie-section-div{
+    position: relative;
+    height: 100%px;
+    width: 100%;
+  display: block;
+
+  }
+  .movie-section-div-mini{
+    position:relative;
+    height: 100%;
+    width: 100%;
+    display: block;
+  }
+  .ml2{
+    font-size: 10px;
+  }
+.res-class{margin-top: 120px;}
+.res-class2{margin-top: 25px;}
+
+
+    /* Your CSS styles for extra small screens */
+  }
+  
+  /* Small (sm) */
+  @media (min-width: 576px) and (max-width: 767.98px) {
+
+    .header-main-div{
+      background-color: black;
+      }
+.container-fluid{
+  background-color: black;
+}
+.icon-froms{
+  visibility: hidden;
+}
+.navbar-expand-lg .navbar-nav {
+  flex-direction: column;
+}
+.movie-section-div{
+  position: relative;
+  height: 100%px;
+  width: 100%;
+display: block;
+
+}
+.movie-section-div-mini{
+  position:relative;
+  height: 100%;
+  width: 100%;
+  display: block;
+}
+.ml2{
+  font-size: 10px;
+}
+.res-class{margin-top: -40px;}
+.res-class2{margin-top: -40px;}
+
+
+
+
+    /* Your CSS styles for small screens */
+  }
+  
+  /* Medium (md) */
+  @media (min-width: 768px) and (max-width: 991.98px) {
+
+    .header-main-div{
+      background-color: black;
+      }
+.container-fluid{
+  background-color: black;
+}
+.icon-froms{
+  visibility: hidden;
+}
+.navbar-expand-lg .navbar-nav {
+  flex-direction: column;
+}
+.movie-section-div{
+  position: relative;
+  height: 100%px;
+  width: 100%;
+display: block;
+
+}
+.movie-section-div-mini{
+  position:relative;
+  height: 100%;
+  width: 100%;
+  display: block;
+}
+.ml2{
+  font-size: 10px;
+}
+.res-class{margin-top: -40px;}
+.res-class2{margin-top: -40px;}
+
+
+
+
+
+    /* Your CSS styles for medium screens */
+  }
+  @media (min-width: 992px) and (max-width: 1199.98px) {
+
+    .form-control{
+      width:120px;
+      background:#272727;
+      color: white;
+    }
+
+    .header-main-div{
+      width: 100%;
+      height: 70px;
+  
+      }
+
+
+
+
+
+
+    /* Your CSS styles for large screens */
+  } 
+  
